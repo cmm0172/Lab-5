@@ -31,6 +31,7 @@ rev $sequence | tr [aA] 'atcg' 'tagc' $sequence > $1.rc.txt
 #echo "$rc
 #"
 
+#jordan
 if [ $# -lt 1 ] || [ $# -gt 1 ]; then
 	echo "Error: add one argument to input"
 	else echo "argument is 1"
