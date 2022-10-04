@@ -15,20 +15,21 @@ len=${#sequence}
 echo "Length: $len"
 
 #loop through sequence in reverse
-for (( i=$len; i>=0; i-- ))
-do
-    reverse="$reverse${sequence:$i:1}"
-done
+#for (( i=$len; i>=0; i-- ))
+#do
+ #   reverse="$reverse${sequence:$i:1}"
+#done
+rev $sequence | tr [aA] 'atcg' 'tagc' $sequence > $1.rc.txt
 
-echo "$sequence
-$reverse
-"
+#echo "$sequence
+#$reverse
+#"
 
 #complement sequence
-rc=`echo $reverse | tr 'atcg' 'tagc'`
+#rc=`echo $reverse | tr 'atcg' 'tagc'`
 
-echo "$rc
-"
+#echo "$rc
+#"
 
-echo $name >$1.rc.txt
-echo $rc >>$1.rc.txt
+#echo $name >$1.rc.txt
+#echo $rc >>$1.rc.txt
