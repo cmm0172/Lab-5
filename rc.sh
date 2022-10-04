@@ -31,5 +31,11 @@ rev $sequence | tr [aA] 'atcg' 'tagc' $sequence > $1.rc.txt
 #echo "$rc
 #"
 
+if [ $# -lt 1 ] || [ $# -gt 1 ]; then
+	echo "Error: add one argument to input"
+	else echo "argument is 1"
+	exit
+fi
+
 #echo $name >$1.rc.txt
 #echo $rc >>$1.rc.txt
