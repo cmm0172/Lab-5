@@ -10,7 +10,7 @@ sequence=`grep -v ">" $1`
 echo "Name: $name"
 
 #calculate length of sequence
-len=${#sequence}
+len=${sequence}
 
 echo "Length: $len"
 
