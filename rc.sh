@@ -40,3 +40,4 @@ fi
 
 #echo $name >$1.rc.txt
 #echo $rc >>$1.rc.txt
+#Madeline Reed
