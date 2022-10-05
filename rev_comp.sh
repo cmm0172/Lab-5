@@ -43,3 +43,6 @@ rev $sequence | tr [aA] 'atcg' 'tagc' $sequence > rc.$1.txt
 #echo $rc >>$1.rc.txt
 
 
+#Chloe
+#Madeline
+#Jordan
