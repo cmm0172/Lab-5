@@ -1,5 +1,11 @@
 #! /bin/sh
 
+#If statement for File Input
+if [ $# != 1 ]; then
+        echo "Usage: Please specify fasta input on command line"
+        exit
+fi
+
 #initialize variable
 reverse=""
 
@@ -19,7 +25,6 @@ echo "Length: $len"
 #do
  #   reverse="$reverse${sequence:$i:1}"
 #done
-#jordan
 if [ $# -lt 1 ] || [ $# -gt 1 ]; then
         echo "Error: add one argument to input"
         else echo "argument is 1"
@@ -46,3 +51,4 @@ rev $sequence | tr [aA] 'atcg' 'tagc' $sequence > rc.$1.txt
 #Chloe
 #Madeline
 #Jordan
+#Sarah
