@@ -1,0 +1,2 @@
+I found using git to be relatively difficult. It could be because I missed the introduction to the Lab on Monday, but once I 
+figured out 
