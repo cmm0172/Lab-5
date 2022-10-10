@@ -1,2 +1,5 @@
 I found using git to be relatively difficult. It could be because I missed the introduction to the Lab on Monday, but once I 
-figured out 
+figured out how to navigate github as well as using git on the commad line, I was able to understand it a lot better!
+As of right now, I don't do any computational work or use my coding knowledge for anything outside of this class,
+but I am confident in my capabilites to start any work if my PI or graduate school required it of me!
+This code would probably not stand up to a reducability test, but I think if we spent a little more time wit it it could possibly hold up better!
