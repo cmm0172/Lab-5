@@ -1,0 +1,2 @@
+I currently save all of the codes and comments into folders for each capstone project, however my first capstone was not commented at all since we had not learned that aspect of code yet. My documents are organized, but they may not stand up to a reproducibility test. 
+Non-reproducible research
