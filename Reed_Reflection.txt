@@ -1,0 +1,3 @@
+Outside of this class I do not have a way of managing documents or code, this would also apply to publishable work.  I do not think our code would withstand a reproducibilty test, because it is messy and the comments apply specifically to our group and this lab.
+I think non-reproducible work has a big impact on computational biology because there would be no way to go back and confirm that the data produced is accurate.  Non-reproducibilty effects the credibilty or the research itself as well as the researcher who produced the data.
+In genetics, which is my field of study, lack of proper documentation has a big impact on the credibilty of the research.
