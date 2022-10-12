@@ -1,2 +1,4 @@
-I currently save all of the codes and comments into folders for each capstone project, however my first capstone was not commented at all since we had not learned that aspect of code yet. My documents are organized, but they may not stand up to a reproducibility test. 
-Non-reproducible research
+**Reflect on how you currently manage your documents and code, particularly content associated with publishable work. Would it stand up to a reproducibility test?**
+I currently save all of the codes and comments into folders for each capstone project, however my first capstone was not commented at all since we had not learned that aspect of code yet. My documents are organized, but they may not stand up to a reproducibility test. This is the only time I have used code so as we have progressed in this class shows how much of my code is documented versus undocumented. 
+**How do you think non-reproducibile research affects computational biology and bioinformatics? What about in your specific field of study?**
+Non-reproducible research affects bioinformatics and computational biology because it wastes time and effort. Without well-documented code, the time has to be spent reproducing this code
